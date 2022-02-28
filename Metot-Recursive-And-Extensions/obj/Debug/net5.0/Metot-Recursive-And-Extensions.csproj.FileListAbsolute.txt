@@ -1,0 +1,16 @@
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Metot-Recursive-And-Extensions\bin\Debug\net5.0\Metot-Recursive-And-Extensions.exe
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Metot-Recursive-And-Extensions\bin\Debug\net5.0\Metot-Recursive-And-Extensions.deps.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Metot-Recursive-And-Extensions\bin\Debug\net5.0\Metot-Recursive-And-Extensions.runtimeconfig.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Metot-Recursive-And-Extensions\bin\Debug\net5.0\Metot-Recursive-And-Extensions.runtimeconfig.dev.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Metot-Recursive-And-Extensions\bin\Debug\net5.0\Metot-Recursive-And-Extensions.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Metot-Recursive-And-Extensions\bin\Debug\net5.0\ref\Metot-Recursive-And-Extensions.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Metot-Recursive-And-Extensions\bin\Debug\net5.0\Metot-Recursive-And-Extensions.pdb
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Metot-Recursive-And-Extensions\obj\Debug\net5.0\Metot-Recursive-And-Extensions.csprojAssemblyReference.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Metot-Recursive-And-Extensions\obj\Debug\net5.0\Metot-Recursive-And-Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Metot-Recursive-And-Extensions\obj\Debug\net5.0\Metot-Recursive-And-Extensions.AssemblyInfoInputs.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Metot-Recursive-And-Extensions\obj\Debug\net5.0\Metot-Recursive-And-Extensions.AssemblyInfo.cs
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Metot-Recursive-And-Extensions\obj\Debug\net5.0\Metot-Recursive-And-Extensions.csproj.CoreCompileInputs.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Metot-Recursive-And-Extensions\obj\Debug\net5.0\Metot-Recursive-And-Extensions.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Metot-Recursive-And-Extensions\obj\Debug\net5.0\ref\Metot-Recursive-And-Extensions.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Metot-Recursive-And-Extensions\obj\Debug\net5.0\Metot-Recursive-And-Extensions.pdb
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Metot-Recursive-And-Extensions\obj\Debug\net5.0\Metot-Recursive-And-Extensions.genruntimeconfig.cache
