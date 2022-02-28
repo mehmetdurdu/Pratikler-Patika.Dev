@@ -1,0 +1,16 @@
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Degisken\bin\Debug\net5.0\Degisken.exe
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Degisken\bin\Debug\net5.0\Degisken.deps.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Degisken\bin\Debug\net5.0\Degisken.runtimeconfig.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Degisken\bin\Debug\net5.0\Degisken.runtimeconfig.dev.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Degisken\bin\Debug\net5.0\Degisken.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Degisken\bin\Debug\net5.0\ref\Degisken.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Degisken\bin\Debug\net5.0\Degisken.pdb
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\net5.0\Degisken.csprojAssemblyReference.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\net5.0\Degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\net5.0\Degisken.AssemblyInfoInputs.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\net5.0\Degisken.AssemblyInfo.cs
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\net5.0\Degisken.csproj.CoreCompileInputs.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\net5.0\Degisken.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\net5.0\ref\Degisken.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\net5.0\Degisken.pdb
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\net5.0\Degisken.genruntimeconfig.cache
