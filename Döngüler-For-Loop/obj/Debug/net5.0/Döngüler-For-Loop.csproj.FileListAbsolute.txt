@@ -1,0 +1,16 @@
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Döngüler-For-Loop\bin\Debug\net5.0\Döngüler-For-Loop.exe
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Döngüler-For-Loop\bin\Debug\net5.0\Döngüler-For-Loop.deps.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Döngüler-For-Loop\bin\Debug\net5.0\Döngüler-For-Loop.runtimeconfig.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Döngüler-For-Loop\bin\Debug\net5.0\Döngüler-For-Loop.runtimeconfig.dev.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Döngüler-For-Loop\bin\Debug\net5.0\Döngüler-For-Loop.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Döngüler-For-Loop\bin\Debug\net5.0\ref\Döngüler-For-Loop.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Döngüler-For-Loop\bin\Debug\net5.0\Döngüler-For-Loop.pdb
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Döngüler-For-Loop\obj\Debug\net5.0\Döngüler-For-Loop.csprojAssemblyReference.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Döngüler-For-Loop\obj\Debug\net5.0\Döngüler-For-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Döngüler-For-Loop\obj\Debug\net5.0\Döngüler-For-Loop.AssemblyInfoInputs.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Döngüler-For-Loop\obj\Debug\net5.0\Döngüler-For-Loop.AssemblyInfo.cs
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Döngüler-For-Loop\obj\Debug\net5.0\Döngüler-For-Loop.csproj.CoreCompileInputs.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Döngüler-For-Loop\obj\Debug\net5.0\Döngüler-For-Loop.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Döngüler-For-Loop\obj\Debug\net5.0\ref\Döngüler-For-Loop.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Döngüler-For-Loop\obj\Debug\net5.0\Döngüler-For-Loop.pdb
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Döngüler-For-Loop\obj\Debug\net5.0\Döngüler-For-Loop.genruntimeconfig.cache
