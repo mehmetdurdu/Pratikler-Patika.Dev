@@ -1,0 +1,16 @@
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Karar Yapilari\bin\Debug\net5.0\Karar Yapilari.exe
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Karar Yapilari\bin\Debug\net5.0\Karar Yapilari.deps.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Karar Yapilari\bin\Debug\net5.0\Karar Yapilari.runtimeconfig.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Karar Yapilari\bin\Debug\net5.0\Karar Yapilari.runtimeconfig.dev.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Karar Yapilari\bin\Debug\net5.0\Karar Yapilari.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Karar Yapilari\bin\Debug\net5.0\ref\Karar Yapilari.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Karar Yapilari\bin\Debug\net5.0\Karar Yapilari.pdb
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Karar Yapilari\obj\Debug\net5.0\Karar Yapilari.csprojAssemblyReference.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Karar Yapilari\obj\Debug\net5.0\Karar Yapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Karar Yapilari\obj\Debug\net5.0\Karar Yapilari.AssemblyInfoInputs.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Karar Yapilari\obj\Debug\net5.0\Karar Yapilari.AssemblyInfo.cs
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Karar Yapilari\obj\Debug\net5.0\Karar Yapilari.csproj.CoreCompileInputs.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Karar Yapilari\obj\Debug\net5.0\Karar Yapilari.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Karar Yapilari\obj\Debug\net5.0\ref\Karar Yapilari.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Karar Yapilari\obj\Debug\net5.0\Karar Yapilari.pdb
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Karar Yapilari\obj\Debug\net5.0\Karar Yapilari.genruntimeconfig.cache
