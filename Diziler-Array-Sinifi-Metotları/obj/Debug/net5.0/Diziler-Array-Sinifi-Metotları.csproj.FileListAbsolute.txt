@@ -1,0 +1,16 @@
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Diziler-Array-Sinifi-Metotları\bin\Debug\net5.0\Diziler-Array-Sinifi-Metotları.exe
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Diziler-Array-Sinifi-Metotları\bin\Debug\net5.0\Diziler-Array-Sinifi-Metotları.deps.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Diziler-Array-Sinifi-Metotları\bin\Debug\net5.0\Diziler-Array-Sinifi-Metotları.runtimeconfig.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Diziler-Array-Sinifi-Metotları\bin\Debug\net5.0\Diziler-Array-Sinifi-Metotları.runtimeconfig.dev.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Diziler-Array-Sinifi-Metotları\bin\Debug\net5.0\Diziler-Array-Sinifi-Metotları.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Diziler-Array-Sinifi-Metotları\bin\Debug\net5.0\ref\Diziler-Array-Sinifi-Metotları.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Diziler-Array-Sinifi-Metotları\bin\Debug\net5.0\Diziler-Array-Sinifi-Metotları.pdb
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Diziler-Array-Sinifi-Metotları\obj\Debug\net5.0\Diziler-Array-Sinifi-Metotları.csprojAssemblyReference.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Diziler-Array-Sinifi-Metotları\obj\Debug\net5.0\Diziler-Array-Sinifi-Metotları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Diziler-Array-Sinifi-Metotları\obj\Debug\net5.0\Diziler-Array-Sinifi-Metotları.AssemblyInfoInputs.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Diziler-Array-Sinifi-Metotları\obj\Debug\net5.0\Diziler-Array-Sinifi-Metotları.AssemblyInfo.cs
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Diziler-Array-Sinifi-Metotları\obj\Debug\net5.0\Diziler-Array-Sinifi-Metotları.csproj.CoreCompileInputs.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Diziler-Array-Sinifi-Metotları\obj\Debug\net5.0\Diziler-Array-Sinifi-Metotları.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Diziler-Array-Sinifi-Metotları\obj\Debug\net5.0\ref\Diziler-Array-Sinifi-Metotları.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Diziler-Array-Sinifi-Metotları\obj\Debug\net5.0\Diziler-Array-Sinifi-Metotları.pdb
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Diziler-Array-Sinifi-Metotları\obj\Debug\net5.0\Diziler-Array-Sinifi-Metotları.genruntimeconfig.cache
