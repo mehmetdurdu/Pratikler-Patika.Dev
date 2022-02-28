@@ -1,0 +1,16 @@
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Operator\bin\Debug\net5.0\Operator.exe
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Operator\bin\Debug\net5.0\Operator.deps.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Operator\bin\Debug\net5.0\Operator.runtimeconfig.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Operator\bin\Debug\net5.0\Operator.runtimeconfig.dev.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Operator\bin\Debug\net5.0\Operator.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Operator\bin\Debug\net5.0\ref\Operator.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Operator\bin\Debug\net5.0\Operator.pdb
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Operator\obj\Debug\net5.0\Operator.csprojAssemblyReference.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Operator\obj\Debug\net5.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Operator\obj\Debug\net5.0\Operator.AssemblyInfoInputs.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Operator\obj\Debug\net5.0\Operator.AssemblyInfo.cs
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Operator\obj\Debug\net5.0\Operator.csproj.CoreCompileInputs.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Operator\obj\Debug\net5.0\Operator.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Operator\obj\Debug\net5.0\ref\Operator.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Operator\obj\Debug\net5.0\Operator.pdb
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Operator\obj\Debug\net5.0\Operator.genruntimeconfig.cache
