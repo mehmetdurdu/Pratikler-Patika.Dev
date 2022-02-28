@@ -1,0 +1,16 @@
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Donguler-While-Foreach\bin\Debug\net5.0\Donguler-While-Foreach.exe
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Donguler-While-Foreach\bin\Debug\net5.0\Donguler-While-Foreach.deps.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Donguler-While-Foreach\bin\Debug\net5.0\Donguler-While-Foreach.runtimeconfig.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Donguler-While-Foreach\bin\Debug\net5.0\Donguler-While-Foreach.runtimeconfig.dev.json
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Donguler-While-Foreach\bin\Debug\net5.0\Donguler-While-Foreach.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Donguler-While-Foreach\bin\Debug\net5.0\ref\Donguler-While-Foreach.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Donguler-While-Foreach\bin\Debug\net5.0\Donguler-While-Foreach.pdb
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Donguler-While-Foreach\obj\Debug\net5.0\Donguler-While-Foreach.csprojAssemblyReference.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Donguler-While-Foreach\obj\Debug\net5.0\Donguler-While-Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Donguler-While-Foreach\obj\Debug\net5.0\Donguler-While-Foreach.AssemblyInfoInputs.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Donguler-While-Foreach\obj\Debug\net5.0\Donguler-While-Foreach.AssemblyInfo.cs
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Donguler-While-Foreach\obj\Debug\net5.0\Donguler-While-Foreach.csproj.CoreCompileInputs.cache
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Donguler-While-Foreach\obj\Debug\net5.0\Donguler-While-Foreach.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Donguler-While-Foreach\obj\Debug\net5.0\ref\Donguler-While-Foreach.dll
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Donguler-While-Foreach\obj\Debug\net5.0\Donguler-While-Foreach.pdb
+C:\Users\W10\OneDrive\Masaüstü\Pratikler\Donguler-While-Foreach\obj\Debug\net5.0\Donguler-While-Foreach.genruntimeconfig.cache
